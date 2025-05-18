@@ -9,4 +9,11 @@ export class BasePage {
   async closeCookiesAlert() {
     await this.page.getByLabel('Уведомление об использовании cookies').locator('button').click();
   }
+  async closePopupModalOnboarding() {
+    const closeButton = this.page.getByRole('button', { name: 'Закрыть' });
+
+    if (await closeButton.isVisible()) {
+      await closeButton.click();
+    }
+  }
 }
