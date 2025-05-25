@@ -3,12 +3,6 @@
     - listitem:
       - link "Главная": Главная …
     - listitem:
-      - link /Победа \d+ …/:
-        - /url: /feeds/pobeda80/
-    - listitem:
-      - link "Города-герои …":
-        - /url: http://pobeda.rutube.ru/
-    - listitem:
       - link "RUTUBE для блогеров …":
         - /url: /for_creators
     - listitem:
@@ -36,8 +30,14 @@
       - link "Фильмы …":
         - /url: /feeds/movies/
     - listitem:
+      - link "Топы категорий …":
+        - /url: /feeds/topcategories-2/
+    - listitem:
       - link "RUTUBE x PREMIER …":
         - /url: /feeds/premier/
+    - listitem:
+      - link /Зениту — \d+ лет! …/:
+        - /url: /channel/24809069/
   - separator
   - list:
     - listitem:

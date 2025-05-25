@@ -3,10 +3,10 @@
 - list:
   - listitem:
     - link "Главная":
-      - /url: /feeds/new_main_page/
+      - /url: /
   - listitem:
-    - link "Города-герои":
-      - /url: https://pobeda.rutube.ru/
+    - link /Зениту — \d+ лет!/:
+      - /url: /feeds/new_main_page/zenit/
   - listitem:
     - link "Рекомендации":
       - /url: /feeds/new_main_page/for-you/

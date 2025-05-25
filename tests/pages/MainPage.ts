@@ -14,7 +14,6 @@ export class MainPage extends BasePage {
   private readonly menuButtonLocator: Locator;
   private readonly openMenuAriaLocator: Locator;
   private readonly changeThemeButtonLocator: Locator;
-  private readonly;
 
   constructor(page: Page) {
     super(page);
