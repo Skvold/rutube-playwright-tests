@@ -1,4 +1,4 @@
-import { Page } from '@playwright/test';
+import { expect, Locator, Page } from '@playwright/test';
 
 export class BasePage {
   readonly page: Page;
@@ -15,5 +15,10 @@ export class BasePage {
     if (await closeButton.isVisible()) {
       await closeButton.click();
     }
+  }
+  async checkAriaSnapshot(locator: Locator, ariaName: string) {
+    await expect(locator).toMatchAriaSnapshot({
+      name: ariaName,
+    });
   }
 }
