@@ -57,28 +57,28 @@ export class MainPage extends BasePage {
   }
   // actions
   async open() {
-    this.page.goto('https://rutube.ru/', { waitUntil: 'load', timeout: 60000 });
+    await this.page.goto('https://rutube.ru/', { waitUntil: 'load', timeout: 60000 });
   }
   async openHeaderUserMenu() {
-    this.userLogoLocator.click();
+    await this.userLogoLocator.click();
   }
   async changeThemeToWhite() {
-    this.changeThemeButtonLocator.click();
+    await this.changeThemeButtonLocator.click();
   }
   async openFullMenu() {
     await this.menuButtonLocator.click();
   }
   async openAddPopupList() {
-    this.headerAddButtonLocator.click();
+    await this.headerAddButtonLocator.click();
   }
   async openNotificationsPopup() {
-    this.headerNotificationsButtonLocator.click();
+    await this.headerNotificationsButtonLocator.click();
   }
   async openAutorizationModal() {
-    this.headerLoginButtonLocator.click();
+    await this.headerLoginButtonLocator.click();
   }
   async switchToRegistrationModal() {
-    this.switchToRegistrationModalButtonLocator.click();
+    await this.switchToRegistrationModalButtonLocator.click();
   }
   // assertions
   async addPopupListHasCorrectAriaSnapshot() {
