@@ -1,0 +1,466 @@
+{
+  "cookies": [
+    {
+      "name": "gid_sso",
+      "value": "false",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "qrator_msid2",
+      "value": "v2.0.1748368963.301.5f18dbfchfLeUyVN|YvEKicCm2CSuYtiU|J4vlgIeUvC9+dtn9MNyWa4aGatUwc7n+iCwVcwqMptyKX0ayPiGhff4ylKmpSOOKETROWDsRQe/6MKx/+yf66g==-QI5/AWiWKecVnH2fUNK4cqJbb8o=",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1748369961.78856,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i",
+      "value": "Buh9zWvTWIlPilAwyZEg3d1soqTiQTo+5z4/ti08FJ+8ZJPb5G1OfqfWSgGMWjmave0nvVXaJIBGOCBqw1VGTKxUgFk=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1782928961.966762,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "3741063551748368963",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1782928962.338186,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "value": "9046989811748368963",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1779904961.966812,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid",
+      "value": "ec6c6afa-d5e7-48a8-8dce-2ecfacfb2c9e",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1782928963.723194,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uxs_uid",
+      "value": "c8d06f50-3b24-11f0-9c6c-83673798c362",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1782928962,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1748368962267417318",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1779904962,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1748368962",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1779904962,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "3741063551748368963",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1782928962.338201,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "value": "2063728963.yrts.1748368963",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1779904963,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1779904969,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "value": "818729671748368963",
+      "domain": "mc.yandex.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "session_id",
+      "value": "90032247211748368962_1748368962368",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1748370767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "vpn-status",
+      "value": "requested",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "guid",
+      "value": "6E1774046835FE43X1748368963",
+      "domain": ".tns-counter.ru",
+      "path": "/",
+      "expires": 1779904967.790321,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "canary1",
+      "value": "{\"mainpage\":{\"active\":\"E\",\"term\":[{\"id\":29,\"label\":\"A\",\"percent\":0},{\"id\":30,\"label\":\"B\",\"percent\":50},{\"id\":31,\"label\":\"C\",\"percent\":50},{\"id\":32,\"label\":\"D\",\"percent\":50},{\"id\":33,\"label\":\"E\",\"percent\":100}]},\"personalrec\":{\"active\":\"C\",\"term\":[{\"id\":34,\"label\":\"A\",\"percent\":0},{\"id\":35,\"label\":\"B\",\"percent\":0},{\"id\":36,\"label\":\"C\",\"percent\":100},{\"id\":37,\"label\":\"D\",\"percent\":100}]},\"tags_predicto\":{\"active\":\"A\",\"term\":[{\"id\":44,\"label\":\"A\",\"percent\":100},{\"id\":45,\"label\":\"B\",\"percent\":100}]},\"new_player\":{\"active\":\"A\",\"term\":[{\"id\":50,\"label\":\"A\",\"percent\":100},{\"id\":51,\"label\":\"B\",\"percent\":100}]},\"premier\":{\"active\":\"D\",\"term\":[{\"id\":46,\"label\":\"A\",\"percent\":0},{\"id\":47,\"label\":\"B\",\"percent\":0},{\"id\":48,\"label\":\"C\",\"percent\":0},{\"id\":49,\"label\":\"D\",\"percent\":100}]}}",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1769904000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1748440962,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "smi_uid",
+      "value": "wWigERYZk",
+      "domain": ".24smi.net",
+      "path": "/",
+      "expires": 1779904962.902139,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_visorc",
+      "value": "b",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1748370764,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1748368964135338144",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1779904964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1748368964",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1779904964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1748440964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_visorc",
+      "value": "b",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1748370764,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "jwt",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydXBhc3NfaWQiOjU5OTY5MjYyLCJlbWFpbF9jb25maXJtZWQiOnsidHlwZW9mIjoiYm9vbCIsInZhbHVlIjp0cnVlfSwiaGFzX3Bob25lIjp7InR5cGVvZiI6ImJvb2wiLCJ2YWx1ZSI6ZmFsc2V9LCJleHAiOjE3NTA5NjA5NjcsIm9yaWdfaWF0IjoxNzQ4MzY4OTY3LCJ1c2VyX2lkIjo2NDY2MjU5MCwiZGF0YSI6eyJ1c2VyX2luZm8iOnsiaWQiOjY0NjYyNTkwfX0sInVzZXJuYW1lIjoiZDk3OTYxMDgyQGdtYWlsLmNvbSIsImVtYWlsIjoiZDk3OTYxMDgyQGdtYWlsLmNvbSIsIm5hbWUiOiIifQ.L5xNP97JB0ER3kVkUId4YGHbyQ4F70Lvt_uhMcxkF4A",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1750960965.708729,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "refreshToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydXBhc3NfaWQiOjU5OTY5MjYyLCJleHAiOjE3NTM1NTI5NjcsInJlcXVlc3RfaWQiOiIxN2M3NGIwZS1kZTQwLTQ1YjAtOWQ5MC05MmRhOWFlYWRmN2IifQ.SLprnVl_dxnGX9EyKzrqbU1KjqvGgtjJxo4HMfSsVnc",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1753552965.708777,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitorID",
+      "value": "64662590",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1753552965.708791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrftoken",
+      "value": "sAODYi7vpTz3wx6diXwmvVv0Dhb3yMVQ",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1779818565.708802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psid2",
+      "value": "lzypm3tkv0fawlcwuu8dp6v3gv2f8yrx",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1750788167.027346,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "value": "EkAiQ2hyb21pdW0iO3Y9IjEzNiIsIkdvb2dsZSBDaHJvbWUiO3Y9IjEzNiIsIjtOb3QgQSBCcmFuZCI7dj0iOTkiGgN4ODYiDTEzNi4wLjcxMDMuMjUqAj8wOgdXaW5kb3dzQgQxMC4wSgI2NFJaIkNocm9taXVtIjt2PSIxMzYuMC43MTAzLjI1IiwiSGVhZGxlc3NDaHJvbWUiO3Y9IjEzNi4wLjcxMDMuMjUiLCJOb3QuQS9CcmFuZCI7dj0iOTkuMC4wLjAiYMn818EGah7cyuH/CJLYobEDn8/h6gP7+vDnDev//fYP7p3Ohwg=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1782928967.749439,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cid",
+      "value": "90032247211748368962",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1782928967,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://rutube.ru",
+      "localStorage": [
+        {
+          "name": "_ym_retryReqs",
+          "value": "{\"1\":{\"protocol\":\"https:\",\"host\":\"mc.yandex.ru\",\"resource\":\"watch/94863760\",\"time\":1748368967779,\"counterType\":\"0\",\"params\":{\"page-url\":\"https://rutube.ru/profile/info/\",\"page-ref\":\"https://rutube.ru/profile/\",\"charset\":\"utf-8\",\"site-info\":\"{\\\"pageview\\\":{\\\"cid\\\":\\\"90032247211748368962\\\",\\\"session_id\\\":\\\"90032247211748368962_1748368962368\\\",\\\"sso_source\\\":\\\"rutube\\\",\\\"screen_name\\\":\\\"/profile/info/\\\",\\\"page_url\\\":\\\"https://rutube.ru/profile/info/\\\",\\\"event_timestamp\\\":\\\"1748368967750\\\",\\\"event_timezone\\\":\\\"3\\\",\\\"user_auth\\\":\\\"1\\\",\\\"user_id\\\":\\\"64662590\\\",\\\"uuid\\\":\\\"ec6c6afa-d5e7-48a8-8dce-2ecfacfb2c9e\\\",\\\"user_subscription\\\":\\\"0\\\",\\\"user_subscription_id\\\":\\\"na\\\",\\\"device_type\\\":\\\"desktop\\\",\\\"isEmbed\\\":\\\"0\\\",\\\"touch_point\\\":\\\"web\\\",\\\"ab_name\\\":\\\"na\\\",\\\"event_name\\\":\\\"pageview\\\",\\\"event_group\\\":\\\"pageview\\\",\\\"channel_id\\\":\\\"na\\\",\\\"content_playlist_id\\\":\\\"na\\\",\\\"content_id\\\":\\\"na\\\",\\\"event_json\\\":\\\"na\\\",\\\"ab_variant\\\":\\\"na\\\",\\\"content_category_id\\\":\\\"na\\\",\\\"content_in_list_position\\\":\\\"na\\\",\\\"content_list_id\\\":\\\"na\\\",\\\"content_list_position\\\":\\\"na\\\",\\\"content_subcategory_id\\\":\\\"na\\\",\\\"content_type\\\":\\\"na\\\",\\\"content_subscription\\\":\\\"na\\\",\\\"event_action\\\":\\\"na\\\",\\\"event_category\\\":\\\"na\\\",\\\"event_context\\\":\\\"na\\\",\\\"event_element_link\\\":\\\"na\\\",\\\"event_element_location\\\":\\\"na\\\",\\\"event_label\\\":\\\"na\\\",\\\"event_revenue\\\":\\\"na\\\",\\\"player_view_id\\\":\\\"na\\\",\\\"sso_id\\\":\\\"na\\\"}}\",\"uah\":\"chu\\n\\\"Chromium\\\";v=\\\"136\\\",\\\"Google Chrome\\\";v=\\\"136\\\",\\\";Not A Brand\\\";v=\\\"99\\\"\\ncha\\nx86\\nchb\\n64\\nchf\\n136.0.7103.25\\nchl\\n\\\"Chromium\\\";v=\\\"136.0.7103.25\\\",\\\"HeadlessChrome\\\";v=\\\"136.0.7103.25\\\",\\\"Not.A/Brand\\\";v=\\\"99.0.0.0\\\"\\nchm\\n?0\\nchp\\nWindows\\nchv\\n10.0\",\"hittoken\":\"1748368963_d64d49507f5c360649e8e0b11a8d71f06f3e8f1156ae7e3075decee6e239a160\"},\"browserInfo\":{\"pv\":1,\"ar\":1,\"vf\":\"91r6djxnfagi0ac8j9552ae0fuu7\",\"fu\":1,\"en\":\"utf-8\",\"la\":\"en-US\",\"v\":\"2050\",\"cn\":2,\"dp\":1,\"ls\":1438969146241,\"hid\":138555863,\"z\":180,\"i\":\"20250527210247\",\"et\":1748368968,\"c\":1,\"rn\":417195601,\"rqn\":17,\"u\":\"1748368962267417318\",\"w\":\"1280x720\",\"s\":\"1280x720x24\",\"sk\":1,\"wv\":2,\"co\":0,\"cpf\":1,\"eu\":0,\"ns\":1748368959454,\"t\":\"Видеохостинг RUTUBE. Смотрите видео онлайн, бесплатно.\",\"adb\":\"2\",\"pp\":\"3629563401\",\"rqnl\":1,\"st\":1748368968},\"counterId\":94863760,\"ghid\":138555863,\"telemetry\":{\"gdpr\":\"14\",\"mc\":\"ci-1-h-4-g-10\",\"clc\":\"8-1070-89\",\"rqnt\":7,\"aw\":1,\"rcm\":1,\"ecs\":0,\"cdl\":\"na\",\"eco\":46203396,\"dss\":1,\"oms\":0,\"prs\":1,\"ti\":1}},\"2\":{\"protocol\":\"https:\",\"host\":\"mc.yandex.ru\",\"resource\":\"watch/53182297\",\"postParams\":\"{\\\"title\\\":\\\"Для вас\\\",\\\"title_2\\\":\\\"Minecraft в кино | A Minecraft Movie (2025)\\\",\\\"url_location\\\":\\\"https://rutube.ru/\\\",\\\"type_cards\\\":\\\"default\\\",\\\"bubble\\\":\\\"Главная\\\",\\\"list_of_cards\\\":[{\\\"position\\\":1,\\\"url\\\":\\\"https://rutube.ru/video/ea055f1bdf0a19dd177c31d986a9c4f0/\\\",\\\"title\\\":\\\"Minecraft в кино | A Minecraft Movie (2025)\\\"},{\\\"position\\\":2,\\\"url\\\":\\\"https://rutube.ru/video/6987490600ccd0ca66bc9f2a274429c5/\\\",\\\"title\\\":\\\"Minecraft в кино (2025) / Майнкрафт в кино / Minecraft Movie\\\"}],\\\"action\\\":\\\"visible_block\\\",\\\"auth\\\":\\\"user\\\",\\\"user_id\\\":64662590,\\\"cid\\\":\\\"ec6c6afa-d5e7-48a8-8dce-2ecfacfb2c9e\\\",\\\"fingerprintId\\\":\\\"81f8b9cc363b7d7a1817d672781ff216\\\"}\",\"time\":1748368967799,\"counterType\":\"0\",\"params\":{\"page-url\":\"goal://rutube.ru/cards\",\"page-ref\":\"https://rutube.ru/profile/info/\",\"charset\":\"utf-8\",\"uah\":\"chu\\n\\\"Chromium\\\";v=\\\"136\\\",\\\"Google Chrome\\\";v=\\\"136\\\",\\\";Not A Brand\\\";v=\\\"99\\\"\\ncha\\nx86\\nchb\\n64\\nchf\\n136.0.7103.25\\nchl\\n\\\"Chromium\\\";v=\\\"136.0.7103.25\\\",\\\"HeadlessChrome\\\";v=\\\"136.0.7103.25\\\",\\\"Not.A/Brand\\\";v=\\\"99.0.0.0\\\"\\nchm\\n?0\\nchp\\nWindows\\nchv\\n10.0\",\"hittoken\":\"1748368963_ef50cdaf689274c8f0b7e9ad9391f58233faa6d57ab7b9ab0ee778fc428a7d37\"},\"browserInfo\":{\"ar\":1,\"vf\":\"91r6djxnfagi0ac8j9552ae0fuu7\",\"fu\":3,\"en\":\"utf-8\",\"la\":\"en-US\",\"v\":\"2050\",\"cn\":1,\"dp\":1,\"ls\":1532745211971,\"hid\":138555863,\"z\":180,\"i\":\"20250527210247\",\"et\":1748368968,\"c\":1,\"rn\":239298840,\"rqn\":28,\"u\":\"1748368962267417318\",\"w\":\"1280x720\",\"s\":\"1280x720x24\",\"sk\":1,\"wv\":2,\"co\":0,\"cpf\":1,\"eu\":0,\"ns\":1748368959454,\"t\":\"Профиль пользователя channel64662590\",\"adb\":\"2\",\"pp\":\"3629563401\",\"rqnl\":1},\"counterId\":53182297,\"ghid\":138555863,\"telemetry\":{\"gdpr\":\"14\",\"mc\":\"ci-1-h-6-g-10\",\"clc\":\"8-1070-89\",\"rqnt\":14,\"aw\":1,\"rcm\":1,\"ecs\":0,\"cdl\":\"na\",\"eco\":46727684,\"dss\":1,\"oms\":0,\"prs\":1}}}"
+        },
+        {
+          "name": "UXS_session_value",
+          "value": "3"
+        },
+        {
+          "name": "_ym94863760_lsid",
+          "value": "1438969146241"
+        },
+        {
+          "name": "sigmaUserData",
+          "value": "{\"userId\":\"90032247211748368962\",\"profileId\":\"64662590\",\"deviceId\":null,\"ip\":null,\"email\":null,\"appVersion\":null,\"geo\":{},\"browser\":{\"name\":\"Chrome\",\"version\":\"136.0.7103.25\"},\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"custom\":{},\"time\":485658.04507777776,\"date\":20235,\"deviceCategory\":\"desktop\",\"domain\":\"rutube.ru\",\"url\":\"https://rutube.ru/\",\"query\":\"\",\"pathname\":\"/\"}"
+        },
+        {
+          "name": "current_session_id",
+          "value": "90032247211748368962_1748368962368"
+        },
+        {
+          "name": "sigmaDataFile",
+          "value": "{\"experiments\":[],\"feature_flags\":[{\"name\":\"var\",\"type\":\"string\",\"is_private\":true,\"rules\":[{\"id\":\"52A1E4E9-EEF1-4164-AFDF-FC7F3BCBF4CF\",\"is_default\":true,\"value\":\"\",\"conditional_statement\":\"-\",\"conditions\":[]}]},{\"name\":\"f_var\",\"type\":\"string\",\"is_private\":true,\"rules\":[{\"id\":\"02BE6F0E-1C16-4D98-BADF-ACB0A3DF6F09\",\"is_default\":true,\"value\":\"\",\"conditional_statement\":\"-\",\"conditions\":[]}]}]}"
+        },
+        {
+          "name": "sigmaPrivateId",
+          "value": "2FVqOpNzRFrX0cSoV65H9t0IAoYizexOe6CtiBMH5LBSNdW43PbJTtzACXugWoIQwRZCsjD2KgeUpI6n"
+        },
+        {
+          "name": "_ym53182297_il",
+          "value": "\"Профиль\""
+        },
+        {
+          "name": "_ym94863760_il",
+          "value": "\"Профиль\""
+        },
+        {
+          "name": "sigmaHash",
+          "value": "64eecb5141da10507f3bd5d20d6228ae87b9b29238f63b596fdb5c23634b4904"
+        },
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "_ym87342106_lsid",
+          "value": "401986170092"
+        },
+        {
+          "name": "msncsite",
+          "value": "6E1774046835FE43X1748368963"
+        },
+        {
+          "name": "profile-interestsTooltip",
+          "value": "show"
+        },
+        {
+          "name": "UXS_updated_time",
+          "value": "1748368965244"
+        },
+        {
+          "name": "header-interestsTooltip",
+          "value": "hidden"
+        },
+        {
+          "name": "fingerprintId",
+          "value": "81f8b9cc363b7d7a1817d672781ff216"
+        },
+        {
+          "name": "_ym53182297_lsid",
+          "value": "1532745211971"
+        },
+        {
+          "name": "session_id",
+          "value": "{\"value\":\"90032247211748368962_1748368962368\",\"expires\":\"2025-05-27T18:32:47.750Z\"}"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1748368962267417318\""
+        },
+        {
+          "name": "uxs_uid",
+          "value": "{\"c8d06f50-3b24-11f0-9c6c-83673798c362\":1748368962245}"
+        },
+        {
+          "name": "_ym94863760:0_reqNum",
+          "value": "17"
+        },
+        {
+          "name": "cid",
+          "value": "90032247211748368962"
+        },
+        {
+          "name": "msncsync",
+          "value": "6E1774046835FE43X1748368963"
+        },
+        {
+          "name": "sigmaDataFileLastUpdate",
+          "value": "1748368963"
+        },
+        {
+          "name": "_ym53182297:0_reqNum",
+          "value": "28"
+        },
+        {
+          "name": "_ym_wv2rf:94863760:0",
+          "value": "1"
+        },
+        {
+          "name": "sigmaGeoData",
+          "value": "{\"country\":\"Russian Federation\",\"code\":\"RU\",\"state\":\"Tverskaya oblast'\",\"city\":\"Tver'\",\"ip\":\"95.24.219.252\"}"
+        },
+        {
+          "name": "sigmaExpiration",
+          "value": "{\"profileId\":1748455366305}"
+        }
+      ]
+    },
+    {
+      "origin": "https://smartcaptcha.yandexcloud.net",
+      "localStorage": [
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1748368964135338144\""
+        },
+        {
+          "name": "_ym_retryReqs",
+          "value": "{}"
+        },
+        {
+          "name": "_ym_wv2rf:93891318:0",
+          "value": "1"
+        },
+        {
+          "name": "_ym93891318_lsid",
+          "value": "1208327822000"
+        },
+        {
+          "name": "_ym93891318:0_reqNum",
+          "value": "3"
+        }
+      ]
+    }
+  ]
+}
