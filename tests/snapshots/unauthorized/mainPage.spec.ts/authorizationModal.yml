@@ -1,13 +1,15 @@
 - form:
   - button "Закрыть форму":
     - img
-  - heading "Вход" [level=3]
-  - text: Телефон или почта
-  - textbox "Введите телефон или электронную почту"
+  - heading "Вход или регистрация" [level=3]
+  - text: Телефон
+  - textbox "Введите телефон"
   - button "Продолжить" [disabled]:
     - paragraph: Продолжить
   - region "войти через социальные сети":
     - list "социальные сети":
+      - listitem:
+        - button "войти с помощью Почта"
       - listitem:
         - button "войти с помощью Яндекс"
       - listitem:
@@ -16,8 +18,6 @@
         - button "войти с помощью Одноклассники"
       - listitem:
         - button "войти с помощью Вконтакте"
-  - contentinfo:
-    - button "Зарегистрироваться"
   - link "Yandex SmartCaptcha":
     - /url: https://yandex.ru/legal/smartcaptcha_notice/
   - text: "- Обработка данных"

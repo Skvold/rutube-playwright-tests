@@ -5,9 +5,6 @@
     - link "Главная":
       - /url: /
   - listitem:
-    - link /Зениту — \d+ лет!/:
-      - /url: /feeds/new_main_page/zenit/
-  - listitem:
     - link "Рекомендации":
       - /url: /feeds/new_main_page/for-you/
   - listitem:
