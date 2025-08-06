@@ -5,32 +5,32 @@ import { url } from 'inspector';
 export class ForCreatorPage extends BasePage {
   static readonly testsParams = [
     {
-      url: 'http://rutube.ru/for_creators/#main',
+      url: '/for_creators/#main',
       screenshotName: 'mainTab.png',
       name: 'Главная',
     },
     {
-      url: 'http://rutube.ru/for_creators/#steps',
+      url: '/for_creators/#steps',
       screenshotName: 'stepsTab.png',
       name: 'Превые шаги',
     },
     {
-      url: 'http://rutube.ru/for_creators/#faq',
+      url: '/for_creators/#faq',
       screenshotName: 'faqTab.png',
       name: 'Как развивать канал',
     },
     {
-      url: 'http://rutube.ru/for_creators/#monetization',
+      url: '/for_creators/#monetization',
       screenshotName: 'monetizationTab.png',
       name: 'Монетизация',
     },
     {
-      url: 'http://rutube.ru/for_creators/#rules',
+      url: '/for_creators/#rules',
       screenshotName: 'rulesTab.png',
       name: 'Правила',
     },
     {
-      url: 'http://rutube.ru/for_creators/#team',
+      url: '/for_creators/#team',
       screenshotName: 'teamTab.png',
       name: 'Команда R',
     },

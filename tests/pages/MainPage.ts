@@ -57,7 +57,7 @@ export class MainPage extends BasePage {
   }
   // actions
   async open() {
-    await this.page.goto('https://rutube.ru/', { waitUntil: 'load', timeout: 60000 });
+    await this.page.goto('/', { waitUntil: 'load', timeout: 60000 });
   }
   async openHeaderUserMenu() {
     await this.userLogoLocator.click();
